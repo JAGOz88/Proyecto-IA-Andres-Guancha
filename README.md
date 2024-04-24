@@ -58,6 +58,12 @@ def Bienvenida_IA():
 >2. **Elon Musk**: "La inteligencia artificial es el único camino para la supervivencia de la humanidad." ².
 >3. **Ray Kurzweil**: "La inteligencia artificial nos hará más humanos." ².
 
+## ***Lista de tareas de la IA***
+
+    - **Procesamiento de Datos**: 
+- [x] Tarea completada
+- [ ] Tarea pendiente
+
 
 
 
