@@ -62,8 +62,21 @@ def Bienvenida_IA():
 1. **Procesamiento de Datos**: 
 - [x] Tarea completada
 - [ ] Tarea pendiente
-
-
+2. **Reconocimiento de Imágenes**:  
+- [x] Tarea completada
+- [ ] Tarea pendiente
+3.**Auditoría de Riesgos**:  
+- [x] Tarea completada
+- [ ] Tarea pendiente
+4.**Análisis de Conversaciones**:   
+- [x] Tarea completada
+- [ ] Tarea pendiente
+ 5.**Experimentación de Emociones Humanas**: 
+- [ ] Tarea completada
+- [x] Tarea pendiente
+ 6.**Las Maquinas Carecen de Vida**:       
+- [ ] Tarea completada
+- [x] Tarea pendiente
 
 
 
