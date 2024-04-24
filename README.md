@@ -54,7 +54,7 @@ def Bienvenida_IA():
 
 
 ## Citas sobre IA
->1. **Stephen Hawking**: "La inteligencia artificial no es el futuro, es el presente." ².
+1. **Stephen Hawking**: "La inteligencia artificial no es el futuro, es el presente." ².
 >2. **Elon Musk**: "La inteligencia artificial es el único camino para la supervivencia de la humanidad." ².
 >3. **Ray Kurzweil**: "La inteligencia artificial nos hará más humanos." ².
 
