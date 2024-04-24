@@ -32,7 +32,11 @@ La Inteligencia Artificial (IA) es la ciencia y la ingeniería que busca crear m
 ## **Imagen de IA**
 
 <p align="center">
+<<<<<<< HEAD
 <img src="./Imagenes/Imagen.jpg" height="300">                        
+=======
+<img src="./Imagenes/Imagen.jpeg" height="300">                        
+>>>>>>> f1d7b619fe90c2ea0e1a3a2ca40fbd39939230f9
 </p>
 
 
