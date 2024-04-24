@@ -14,3 +14,20 @@ La Inteligencia Artificial (IA) es la ciencia y la ingeniería que busca crear m
 3.	**Visión por Computadora (Computer Vision):** Este campo se ocupa de enseñar a las máquinas a interpretar imágenes y videos. Permite que las computadoras “vean” y extraigan información visual.
 4.	**Robótica:** La robótica en la IA se refiere a la creación de robots o sistemas automatizados que pueden realizar tareas físicas. Combina la percepción (visión, sensores) con la acción (movimiento, manipulación).
 5.	**Redes Neuronales (Neural Networks):** Estas son estructuras inspiradas en el cerebro humano.
+
+
+## Enlaces
+
+[Google](https://www.elementosonline.com)
+```markdown
+[Google](https://www.canalinnova.com)
+```
+
+
+
+
+
+
+
+
+
