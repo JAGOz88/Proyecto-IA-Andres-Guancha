@@ -44,8 +44,15 @@ La Inteligencia Artificial (IA) es la ciencia y la ingeniería que busca crear m
 def Bienvenida_IA():
     print("Bienvenido a la IA")
 ```
+### **Cuadro Comparativo de las diferentes IA**
 
-
-
+| Tipo de IA          |      Ejemplos          | 
+|---------------------|------------------------|
+|IA Estrecha          |      Chatbots          |
+|---------------------|------------------------|--------------||--------------|--------------|--------------|
+|IA General           | Aprendizaje autónomo   | Texto 6      || Texto 4      | Texto 5      | Texto 6      |
+|---------------------|--------------|---------||--------------|--------------|--------------|
+| IA Súper Inteligente| Creacion de Tecnologia | Texto 6      || Texto 4      | Texto 5      | Texto 6      |
+|---------------------|------------------------|--------------||--------------|--------------|--------------|
 
 
