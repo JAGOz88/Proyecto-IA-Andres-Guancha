@@ -60,7 +60,7 @@ def Bienvenida_IA():
 
 ## ***Lista de tareas de la IA***
 
-    - **Procesamiento de Datos**: 
+    1. **Procesamiento de Datos**: 
 - [x] Tarea completada
 - [ ] Tarea pendiente
 
