@@ -59,8 +59,7 @@ def Bienvenida_IA():
 >3. **Ray Kurzweil**: "La inteligencia artificial nos hará más humanos." ².
 
 ## ***Lista de tareas de la IA***
-
-    1. **Procesamiento de Datos**: 
+1. **Procesamiento de Datos**: 
 - [x] Tarea completada
 - [ ] Tarea pendiente
 
