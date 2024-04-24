@@ -78,6 +78,11 @@ def Bienvenida_IA():
 - [ ] Tarea completada
 - [x] Tarea pendiente
 
+## **La IA y Las Tareas Cotidianas**   
+---
+En resumen, la IA está revolucionando la forma en que abordamos las tareas y la automatización, brindando soluciones más eficientes y precisas.
+***
+
 ## Enlaces de Interes sobre IA
 
 <a href="https://hashdork.com/es/plataformas-de-gesti%C3%B3n-de-tareas-de-IA/." target="_blank">- Guía Plataformas IA</a>
