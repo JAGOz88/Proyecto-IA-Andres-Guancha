@@ -80,6 +80,4 @@ def Bienvenida_IA():
 
 ## Enlaces de Interes sobre IA
 
-<a href="https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank">- Guía MarkDown</a>
-
 <a href="https://hashdork.com/es/plataformas-de-gesti%C3%B3n-de-tareas-de-IA/." target="_blank">- Guía Plataformas IA</a>
