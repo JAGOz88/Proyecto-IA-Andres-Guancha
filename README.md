@@ -38,11 +38,11 @@ La Inteligencia Artificial (IA) es la ciencia y la ingeniería que busca crear m
 </p>
 
 ### ***Sintesis de la IA*** 
-```La inteligencia artificial es como un espejo que refleja la creatividad y el conocimiento de sus creadores, pero también revela la complejidad y los misterios del universo```
+`La inteligencia artificial es como un espejo que refleja la creatividad y el conocimiento de sus creadores, pero también revela la complejidad y los misterios del universo`
 
 ```python
-def hola_mundo():
-    print("La inteligencia artificial es como un espejo que refleja la creatividad y el conocimiento de sus creadores, pero también revela la complejidad y los misterios del universo")
+def Bienvenida_IA():
+    print("Bienvenido a la IA")
 ```
 
 
