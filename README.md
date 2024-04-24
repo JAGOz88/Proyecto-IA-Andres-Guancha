@@ -49,7 +49,7 @@ def Bienvenida_IA():
 | Tipo de IA          |      Ejemplos          | 
 |---------------------|------------------------|
 |IA Estrecha          |      Chatbots          |
-|---------------------|------------------------|---------|
+|                     |                        |---------|
 |IA General           | Aprendizaje autónomo   | Texto 6      || Texto 4      | Texto 5      | Texto 6      |
 |---------------------|--------------|---------||--------------|--------------|--------------|
 | IA Súper Inteligente| Creacion de Tecnologia | Texto 6      || Texto 4      | Texto 5      | Texto 6      |
