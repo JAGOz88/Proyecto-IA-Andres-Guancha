@@ -25,7 +25,7 @@ La Inteligencia Artificial (IA) es la ciencia y la ingeniería que busca crear m
 ```markdown
 [Google](https://www.canalinnova.com)
 [Google](https://www.elementosonline.com)
-[Google](https://www.es.wikipedia.org/wiki/Inteligencia_artificial)
+[Google](https://es.wikipedia.org/wiki/Inteligencia_artificial)
 ```
 
 
